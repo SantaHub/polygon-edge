@@ -13,16 +13,16 @@ import (
 	"github.com/umbracle/ethgo"
 	ethgow "github.com/umbracle/ethgo/wallet"
 
-	"github.com/0xPolygon/polygon-edge/command"
-	"github.com/0xPolygon/polygon-edge/command/bridge/common"
-	"github.com/0xPolygon/polygon-edge/command/genesis"
-	"github.com/0xPolygon/polygon-edge/command/sidechain"
-	"github.com/0xPolygon/polygon-edge/consensus/polybft"
-	"github.com/0xPolygon/polygon-edge/consensus/polybft/contractsapi"
-	"github.com/0xPolygon/polygon-edge/contracts"
-	"github.com/0xPolygon/polygon-edge/e2e-polybft/framework"
-	"github.com/0xPolygon/polygon-edge/txrelayer"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/SantaHub/polygon-edge/command"
+	"github.com/SantaHub/polygon-edge/command/bridge/common"
+	"github.com/SantaHub/polygon-edge/command/genesis"
+	"github.com/SantaHub/polygon-edge/command/sidechain"
+	"github.com/SantaHub/polygon-edge/consensus/polybft"
+	"github.com/SantaHub/polygon-edge/consensus/polybft/contractsapi"
+	"github.com/SantaHub/polygon-edge/contracts"
+	"github.com/SantaHub/polygon-edge/e2e-polybft/framework"
+	"github.com/SantaHub/polygon-edge/txrelayer"
+	"github.com/SantaHub/polygon-edge/types"
 )
 
 const (

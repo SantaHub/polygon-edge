@@ -6,10 +6,10 @@ import (
 	"math/big"
 	"os"
 
-	cmdhelper "github.com/0xPolygon/polygon-edge/command/helper"
-	"github.com/0xPolygon/polygon-edge/secrets"
-	"github.com/0xPolygon/polygon-edge/secrets/helper"
-	"github.com/0xPolygon/polygon-edge/types"
+	cmdhelper "github.com/SantaHub/polygon-edge/command/helper"
+	"github.com/SantaHub/polygon-edge/secrets"
+	"github.com/SantaHub/polygon-edge/secrets/helper"
+	"github.com/SantaHub/polygon-edge/types"
 )
 
 const (

@@ -5,7 +5,7 @@ import (
 	"math/big"
 	"sync/atomic"
 
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/SantaHub/polygon-edge/types"
 )
 
 type pricedQueue struct {

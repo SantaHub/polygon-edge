@@ -6,9 +6,9 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/0xPolygon/polygon-edge/types"
-	"github.com/0xPolygon/polygon-edge/validators"
-	"github.com/0xPolygon/polygon-edge/validators/store"
+	"github.com/SantaHub/polygon-edge/types"
+	"github.com/SantaHub/polygon-edge/validators"
+	"github.com/SantaHub/polygon-edge/validators/store"
 )
 
 // snapshotMetadata defines the metadata for the snapshot

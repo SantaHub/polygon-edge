@@ -1,8 +1,8 @@
 package config
 
 import (
-	"github.com/0xPolygon/polygon-edge/chain"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/SantaHub/polygon-edge/chain"
+	"github.com/SantaHub/polygon-edge/types"
 )
 
 // GetWhitelist fetches whitelist object from the config

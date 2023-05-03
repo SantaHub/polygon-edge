@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/0xPolygon/polygon-edge/secrets"
-	"github.com/0xPolygon/polygon-edge/secrets/helper"
+	"github.com/SantaHub/polygon-edge/secrets"
+	"github.com/SantaHub/polygon-edge/secrets/helper"
 )
 
 // common flags for all polybft commands

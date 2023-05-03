@@ -11,8 +11,8 @@ import (
 	"strings"
 	"text/template"
 
-	gensc "github.com/0xPolygon/polygon-edge/consensus/polybft/contractsapi"
-	"github.com/0xPolygon/polygon-edge/consensus/polybft/contractsapi/artifact"
+	gensc "github.com/SantaHub/polygon-edge/consensus/polybft/contractsapi"
+	"github.com/SantaHub/polygon-edge/consensus/polybft/contractsapi/artifact"
 	"github.com/umbracle/ethgo/abi"
 )
 
@@ -307,7 +307,7 @@ package contractsapi
 import (
 	"math/big"
 
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/SantaHub/polygon-edge/types"
 	"github.com/umbracle/ethgo/abi"
 	"github.com/umbracle/ethgo"
 )

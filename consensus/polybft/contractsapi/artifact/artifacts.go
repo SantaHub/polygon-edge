@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"path/filepath"
 
-	"github.com/0xPolygon/polygon-edge/helper/hex"
+	"github.com/SantaHub/polygon-edge/helper/hex"
 	"github.com/umbracle/ethgo/abi"
 )
 

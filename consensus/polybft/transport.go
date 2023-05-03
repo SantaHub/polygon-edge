@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	ibftProto "github.com/0xPolygon/go-ibft/messages/proto"
-	polybftProto "github.com/0xPolygon/polygon-edge/consensus/polybft/proto"
-	"github.com/0xPolygon/polygon-edge/types"
+	polybftProto "github.com/SantaHub/polygon-edge/consensus/polybft/proto"
+	"github.com/SantaHub/polygon-edge/types"
 	"github.com/libp2p/go-libp2p/core/peer"
 )
 

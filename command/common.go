@@ -5,12 +5,12 @@ import (
 	"os"
 	"strings"
 
-	"github.com/0xPolygon/polygon-edge/crypto"
-	"github.com/0xPolygon/polygon-edge/helper/common"
-	"github.com/0xPolygon/polygon-edge/secrets"
-	"github.com/0xPolygon/polygon-edge/secrets/local"
-	"github.com/0xPolygon/polygon-edge/types"
-	"github.com/0xPolygon/polygon-edge/validators"
+	"github.com/SantaHub/polygon-edge/crypto"
+	"github.com/SantaHub/polygon-edge/helper/common"
+	"github.com/SantaHub/polygon-edge/secrets"
+	"github.com/SantaHub/polygon-edge/secrets/local"
+	"github.com/SantaHub/polygon-edge/types"
+	"github.com/SantaHub/polygon-edge/validators"
 	"github.com/hashicorp/go-hclog"
 )
 

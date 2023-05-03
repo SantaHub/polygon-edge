@@ -6,13 +6,13 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/0xPolygon/polygon-edge/network/common"
-	"github.com/0xPolygon/polygon-edge/network/event"
+	"github.com/SantaHub/polygon-edge/network/common"
+	"github.com/SantaHub/polygon-edge/network/event"
 	"github.com/hashicorp/go-hclog"
 	"github.com/libp2p/go-libp2p/core/network"
 
-	"github.com/0xPolygon/polygon-edge/network/grpc"
-	"github.com/0xPolygon/polygon-edge/network/proto"
+	"github.com/SantaHub/polygon-edge/network/grpc"
+	"github.com/SantaHub/polygon-edge/network/proto"
 	kb "github.com/libp2p/go-libp2p-kbucket"
 	"github.com/libp2p/go-libp2p/core/peer"
 )

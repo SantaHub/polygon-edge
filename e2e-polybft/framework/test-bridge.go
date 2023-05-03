@@ -11,13 +11,13 @@ import (
 	"testing"
 	"time"
 
-	bridgeCommon "github.com/0xPolygon/polygon-edge/command/bridge/common"
-	"github.com/0xPolygon/polygon-edge/command/genesis"
-	"github.com/0xPolygon/polygon-edge/command/polybftsecrets"
-	rootHelper "github.com/0xPolygon/polygon-edge/command/rootchain/helper"
-	"github.com/0xPolygon/polygon-edge/command/rootchain/server"
-	"github.com/0xPolygon/polygon-edge/consensus/polybft"
-	"github.com/0xPolygon/polygon-edge/types"
+	bridgeCommon "github.com/SantaHub/polygon-edge/command/bridge/common"
+	"github.com/SantaHub/polygon-edge/command/genesis"
+	"github.com/SantaHub/polygon-edge/command/polybftsecrets"
+	rootHelper "github.com/SantaHub/polygon-edge/command/rootchain/helper"
+	"github.com/SantaHub/polygon-edge/command/rootchain/server"
+	"github.com/SantaHub/polygon-edge/consensus/polybft"
+	"github.com/SantaHub/polygon-edge/types"
 	"golang.org/x/sync/errgroup"
 )
 

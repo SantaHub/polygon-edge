@@ -1,6 +1,6 @@
 package polybft
 
-import "github.com/0xPolygon/polygon-edge/types"
+import "github.com/SantaHub/polygon-edge/types"
 
 type PostBlockRequest struct {
 	// FullBlock is a reference of the executed block

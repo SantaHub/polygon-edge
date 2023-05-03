@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/0xPolygon/polygon-edge/helper/common"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/SantaHub/polygon-edge/helper/common"
+	"github.com/SantaHub/polygon-edge/types"
 	"github.com/hashicorp/go-hclog"
 )
 

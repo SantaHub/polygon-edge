@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/0xPolygon/polygon-edge/helper/hex"
+	"github.com/SantaHub/polygon-edge/helper/hex"
 )
 
 // ParseUint64orHex parses the given string as uint64 in hex

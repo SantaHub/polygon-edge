@@ -1,15 +1,15 @@
 package polybft
 
 import (
-	"github.com/0xPolygon/polygon-edge/command/rootchain/registration"
-	"github.com/0xPolygon/polygon-edge/command/rootchain/staking"
-	"github.com/0xPolygon/polygon-edge/command/rootchain/supernet"
-	"github.com/0xPolygon/polygon-edge/command/rootchain/validators"
-	"github.com/0xPolygon/polygon-edge/command/rootchain/whitelist"
-	"github.com/0xPolygon/polygon-edge/command/rootchain/withdraw"
-	"github.com/0xPolygon/polygon-edge/command/sidechain/rewards"
-	"github.com/0xPolygon/polygon-edge/command/sidechain/unstaking"
-	sidechainWithdraw "github.com/0xPolygon/polygon-edge/command/sidechain/withdraw"
+	"github.com/SantaHub/polygon-edge/command/rootchain/registration"
+	"github.com/SantaHub/polygon-edge/command/rootchain/staking"
+	"github.com/SantaHub/polygon-edge/command/rootchain/supernet"
+	"github.com/SantaHub/polygon-edge/command/rootchain/validators"
+	"github.com/SantaHub/polygon-edge/command/rootchain/whitelist"
+	"github.com/SantaHub/polygon-edge/command/rootchain/withdraw"
+	"github.com/SantaHub/polygon-edge/command/sidechain/rewards"
+	"github.com/SantaHub/polygon-edge/command/sidechain/unstaking"
+	sidechainWithdraw "github.com/SantaHub/polygon-edge/command/sidechain/withdraw"
 	"github.com/spf13/cobra"
 )
 

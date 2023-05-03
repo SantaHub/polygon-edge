@@ -17,7 +17,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/0xPolygon/polygon-edge/helper/hex"
+	"github.com/SantaHub/polygon-edge/helper/hex"
 )
 
 var (

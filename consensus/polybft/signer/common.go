@@ -8,7 +8,7 @@ import (
 	"log"
 	"math/big"
 
-	pcrypto "github.com/0xPolygon/polygon-edge/crypto"
+	pcrypto "github.com/SantaHub/polygon-edge/crypto"
 	bn256 "github.com/umbracle/go-eth-bn256"
 )
 

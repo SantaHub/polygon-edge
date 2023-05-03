@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/0xPolygon/polygon-edge/command"
-	"github.com/0xPolygon/polygon-edge/consensus/polybft/wallet"
-	"github.com/0xPolygon/polygon-edge/secrets"
-	"github.com/0xPolygon/polygon-edge/secrets/helper"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/SantaHub/polygon-edge/command"
+	"github.com/SantaHub/polygon-edge/consensus/polybft/wallet"
+	"github.com/SantaHub/polygon-edge/secrets"
+	"github.com/SantaHub/polygon-edge/secrets/helper"
+	"github.com/SantaHub/polygon-edge/types"
 	"github.com/spf13/cobra"
 )
 

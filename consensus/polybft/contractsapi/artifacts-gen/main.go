@@ -7,7 +7,7 @@ import (
 	"path"
 	"runtime"
 
-	"github.com/0xPolygon/polygon-edge/consensus/polybft/contractsapi/artifact"
+	"github.com/SantaHub/polygon-edge/consensus/polybft/contractsapi/artifact"
 	"github.com/dave/jennifer/jen"
 )
 

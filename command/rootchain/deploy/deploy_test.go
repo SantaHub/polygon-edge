@@ -8,10 +8,10 @@ import (
 	"github.com/umbracle/ethgo/jsonrpc"
 	"github.com/umbracle/ethgo/testutil"
 
-	"github.com/0xPolygon/polygon-edge/command"
-	"github.com/0xPolygon/polygon-edge/command/rootchain/helper"
-	"github.com/0xPolygon/polygon-edge/consensus/polybft"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/SantaHub/polygon-edge/command"
+	"github.com/SantaHub/polygon-edge/command/rootchain/helper"
+	"github.com/SantaHub/polygon-edge/consensus/polybft"
+	"github.com/SantaHub/polygon-edge/types"
 )
 
 func TestDeployContracts_NoPanics(t *testing.T) {

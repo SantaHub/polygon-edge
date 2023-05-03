@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/0xPolygon/polygon-edge/command/helper"
-	"github.com/0xPolygon/polygon-edge/server/proto"
+	"github.com/SantaHub/polygon-edge/command/helper"
+	"github.com/SantaHub/polygon-edge/server/proto"
 )
 
 const (

@@ -3,13 +3,13 @@ package validators
 import (
 	"fmt"
 
-	"github.com/0xPolygon/polygon-edge/command"
-	"github.com/0xPolygon/polygon-edge/command/helper"
-	"github.com/0xPolygon/polygon-edge/command/polybftsecrets"
-	rootHelper "github.com/0xPolygon/polygon-edge/command/rootchain/helper"
-	sidechainHelper "github.com/0xPolygon/polygon-edge/command/sidechain"
-	"github.com/0xPolygon/polygon-edge/txrelayer"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/SantaHub/polygon-edge/command"
+	"github.com/SantaHub/polygon-edge/command/helper"
+	"github.com/SantaHub/polygon-edge/command/polybftsecrets"
+	rootHelper "github.com/SantaHub/polygon-edge/command/rootchain/helper"
+	sidechainHelper "github.com/SantaHub/polygon-edge/command/sidechain"
+	"github.com/SantaHub/polygon-edge/txrelayer"
+	"github.com/SantaHub/polygon-edge/types"
 	"github.com/spf13/cobra"
 )
 

@@ -3,10 +3,10 @@ package precompiled
 import (
 	"math/big"
 
-	"github.com/0xPolygon/polygon-edge/chain"
-	"github.com/0xPolygon/polygon-edge/contracts"
-	"github.com/0xPolygon/polygon-edge/state/runtime"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/SantaHub/polygon-edge/chain"
+	"github.com/SantaHub/polygon-edge/contracts"
+	"github.com/SantaHub/polygon-edge/state/runtime"
+	"github.com/SantaHub/polygon-edge/types"
 )
 
 type nativeTransfer struct{}

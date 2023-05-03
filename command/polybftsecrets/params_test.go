@@ -6,8 +6,8 @@ import (
 	"path"
 	"testing"
 
-	bls "github.com/0xPolygon/polygon-edge/consensus/polybft/signer"
-	"github.com/0xPolygon/polygon-edge/secrets/helper"
+	bls "github.com/SantaHub/polygon-edge/consensus/polybft/signer"
+	"github.com/SantaHub/polygon-edge/secrets/helper"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"github.com/umbracle/ethgo/wallet"

@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/0xPolygon/polygon-edge/e2e-polybft/framework"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/SantaHub/polygon-edge/e2e-polybft/framework"
+	"github.com/SantaHub/polygon-edge/types"
 	"github.com/stretchr/testify/require"
 	"pgregory.net/rapid"
 )

@@ -5,8 +5,8 @@ import (
 	"math/big"
 	"sync/atomic"
 
-	"github.com/0xPolygon/polygon-edge/helper/common"
-	"github.com/0xPolygon/polygon-edge/helper/keccak"
+	"github.com/SantaHub/polygon-edge/helper/common"
+	"github.com/SantaHub/polygon-edge/helper/keccak"
 )
 
 const (

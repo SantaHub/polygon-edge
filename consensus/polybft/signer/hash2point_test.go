@@ -8,7 +8,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/0xPolygon/polygon-edge/helper/common"
+	"github.com/SantaHub/polygon-edge/helper/common"
 	"github.com/stretchr/testify/require"
 )
 

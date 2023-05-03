@@ -6,8 +6,8 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/0xPolygon/polygon-edge/helper/hex"
-	"github.com/0xPolygon/polygon-edge/helper/keccak"
+	"github.com/SantaHub/polygon-edge/helper/hex"
+	"github.com/SantaHub/polygon-edge/helper/keccak"
 )
 
 const (
@@ -33,7 +33,6 @@ var (
 	// EmptyUncleHash is the root where there is no code
 	// Equivalent of: `types.BytesToHash(crypto.Keccak256(nil))`
 	EmptyCodeHash = StringToHash("0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470")
-
 )
 
 type Hash [HashLength]byte

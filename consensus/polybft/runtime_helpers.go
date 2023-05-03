@@ -1,8 +1,8 @@
 package polybft
 
 import (
-	"github.com/0xPolygon/polygon-edge/blockchain"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/SantaHub/polygon-edge/blockchain"
+	"github.com/SantaHub/polygon-edge/types"
 )
 
 // isEndOfPeriod checks if an end of a period (either it be sprint or epoch)

@@ -3,8 +3,8 @@ package network
 import (
 	"net"
 
-	"github.com/0xPolygon/polygon-edge/chain"
-	"github.com/0xPolygon/polygon-edge/secrets"
+	"github.com/SantaHub/polygon-edge/chain"
+	"github.com/SantaHub/polygon-edge/secrets"
 	"github.com/multiformats/go-multiaddr"
 )
 

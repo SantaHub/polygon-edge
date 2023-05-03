@@ -4,8 +4,8 @@ import (
 	"context"
 	"math"
 
-	"github.com/0xPolygon/polygon-edge/command/helper"
-	ibftOp "github.com/0xPolygon/polygon-edge/consensus/ibft/proto"
+	"github.com/SantaHub/polygon-edge/command/helper"
+	ibftOp "github.com/SantaHub/polygon-edge/consensus/ibft/proto"
 )
 
 const (

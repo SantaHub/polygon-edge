@@ -3,8 +3,8 @@ package precompiled
 import (
 	"testing"
 
-	bls "github.com/0xPolygon/polygon-edge/consensus/polybft/signer"
-	"github.com/0xPolygon/polygon-edge/types"
+	bls "github.com/SantaHub/polygon-edge/consensus/polybft/signer"
+	"github.com/SantaHub/polygon-edge/types"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"github.com/umbracle/ethgo/abi"

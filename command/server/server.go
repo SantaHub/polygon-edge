@@ -3,11 +3,11 @@ package server
 import (
 	"fmt"
 
-	"github.com/0xPolygon/polygon-edge/command"
-	"github.com/0xPolygon/polygon-edge/command/helper"
-	"github.com/0xPolygon/polygon-edge/command/server/config"
-	"github.com/0xPolygon/polygon-edge/command/server/export"
-	"github.com/0xPolygon/polygon-edge/server"
+	"github.com/SantaHub/polygon-edge/command"
+	"github.com/SantaHub/polygon-edge/command/helper"
+	"github.com/SantaHub/polygon-edge/command/server/config"
+	"github.com/SantaHub/polygon-edge/command/server/export"
+	"github.com/SantaHub/polygon-edge/server"
 	"github.com/spf13/cobra"
 )
 

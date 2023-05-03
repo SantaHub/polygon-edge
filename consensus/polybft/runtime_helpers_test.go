@@ -3,9 +3,9 @@ package polybft
 import (
 	"testing"
 
-	"github.com/0xPolygon/polygon-edge/blockchain"
-	"github.com/0xPolygon/polygon-edge/consensus/polybft/bitmap"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/SantaHub/polygon-edge/blockchain"
+	"github.com/SantaHub/polygon-edge/consensus/polybft/bitmap"
+	"github.com/SantaHub/polygon-edge/types"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 )
